@@ -3,7 +3,7 @@
   shrifty
 </h1>
 
-### Windows Fonts Backup Tool / Утилита резервного копирования шрифтов
+### Windows Fonts Backup Tool / Инструмент сохранения шрифтов Windows
 
 **English** | **[Русский](#русский)**
 
