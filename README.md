@@ -7,6 +7,7 @@
 
 **English** | **[Русский](#русский)**
 
+[![all downloads](https://img.shields.io/github/downloads/ellatuk/shrifty/total?label=AllDownloads&color=blue)](https://github.com/ellatuk/shrifty/releases)   [![Last version](https://img.shields.io/github/v/release/ellatuk/shrifty?include_prerelease&label=Last+release)](https://github.com/ellatuk/shrifty/releases)
 ---
 
 ## 🌐 English Version
@@ -39,6 +40,9 @@ If you have a fresh Windows installation and haven't installed any additional fo
 
 <a name="русский"></a>
 ## 🌐 Русская версия
+
+[![всего скачиваний](https://img.shields.io/github/downloads/ellatuk/shrifty/total?label=Скачиваний&color=blue)](https://github.com/ellatuk/shrifty/releases) [![Последняя версия](https://img.shields.io/github/v/release/ellatuk/shrifty?include_prerelease&label=Последний+релиз)](https://github.com/ellatuk/shrifty/releases)
+---
 
 Инструмент для резервного копирования пользовательских шрифтов в Windows.
 
