@@ -14,7 +14,12 @@
 
 Utility for backing up user-installed fonts in Windows. 
 
-If you have a fresh Windows installation and haven't installed any additional fonts, the program won't copy anything.
+##### Why do I need this? (your question)
+Are you reinstalling your Windows and don't want to lose the fonts you installed?
+
+Just use Shrifty, which will save your fonts to a convenient archive, and you can save it to the cloud, flash drive, and return them after reinstalling the system! And why can't Windows do this?
+###### If you have a fresh Windows installation and haven't installed any additional fonts, the program won't copy anything.
+
 
 **Program automatically:**
 - Excludes default Windows system fonts
@@ -44,9 +49,11 @@ If you have a fresh Windows installation and haven't installed any additional fo
 [![всего скачиваний](https://img.shields.io/github/downloads/ellatuk/shrifty/total?label=Скачиваний&color=blue)](https://github.com/ellatuk/shrifty/releases) [![Последняя версия](https://img.shields.io/github/v/release/ellatuk/shrifty?include_prerelease&label=Последний+релиз)](https://github.com/ellatuk/shrifty/releases)
 ---
 
-Инструмент для резервного копирования пользовательских шрифтов в Windows.
+##### Для чего это мне? (ваш вопрос)
+Вы переустанавливаете вашу Windows и не хотите потерять шрифты, которые установили?
+Просто используйте Shrifty, который сохранит ваши шрифты в удобный архив, и вы сможете сохранить его на облако, флешку и после переустановки системы вернуть их! И почему Windows этого не умеет?
 
-Если у вас свежеустановленная Windows и вы не устанавливали дополнительные шрифты, программа ничего не скопирует.
+###### Если у вас свежеустановленная Windows и вы не устанавливали дополнительные шрифты, программа ничего не скопирует.
 
 **Программа автоматически:**
 - Исключает стандартные системные шрифты Windows
